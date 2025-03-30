@@ -1,0 +1,24 @@
+user = {
+    { Login = "Legens2", ID = "2d3143c24a210fe2", Game = "All" },
+    { Login = "Legens3", ID = "3c67f3764769a04d", Game = "All" },
+    { Login = "Legens4", ID = "3cb42b5ffe831e3e", Game = "All" },
+    { Login = "Legens", ID = "3ae75c3215ed2ca7", Game = "All" },
+    { Login = "intwave", ID = "583312fd62af4efe", Game = "All" },
+    { Login = "LegensVp", ID = "d7d962c710ebe7ed", Game = "All" },
+    { Login = "GOIPOFE", ID = "0855da69a28c199c", Game = "All" },
+    { Login = "BlackNiger", ID = "4857c2f5e49530a3", Game = "All" },
+    { Login = "zeross123", ID = "0ee94fe92c86fda0", Game = "All" },
+    { Login = "Alentlessed", ID = "f97f2c24c3ba75d3", Game = "All" },
+---
+---
+--- StandalLeo ---
+    { Login = "nudayakrutha", ID = "6d75a0be2f01b5b6", Game = "StandLeo" }, -- до 30 марта 
+
+
+
+ 
+ ---------- Навсегда -----------
+     { Login = "Sendpanic", ID = "7b1e044a204a344a", Game = "StandRise" },
+    { Login = "Kanbsind12", ID = "45a7f908c3ce124b", Game = "StandLeo" }
+
+}
