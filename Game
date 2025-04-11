@@ -1,6 +1,6 @@
 ScriptGameSettings = {
    {game = "StandKnife", version = "2.7", package = "com.neshurick.standknife", status = true, loader = true, vloader = "1.0"},
-    {game = "StandLeo", version = "2.61", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.0"},
+    {game = "StandLeo", version = "2.7", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.0"},
     {game = "StandChillow", version = "2.4", package = "com.Chillow.StandChillowRework", status = true, loader = true, vloader = "1.0"},
      {game = "SO2", version = "0.33.0", package = "Z", status = true},
 }
