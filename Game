@@ -1,5 +1,5 @@
 ScriptGameSettings = {
-   {game = "StandKnife", version = "2.7", package = "com.neshurick.standknife", status = true, loader = true, vloader = "1.0"},
+   {game = "StandKnife", version = "2.8", package = "com.neshurick.standknife", status = true, loader = true, vloader = "1.0"},
     {game = "StandLeo", version = "2.7", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.0"},
     {game = "StandChillow", version = "2.4", package = "com.Chillow.StandChillowRework", status = true, loader = true, vloader = "1.0"},
    {game = "Polywar", version = "2.4.3", package = "com.nobodyshot.POLYWAR", status = true, loader = true, vloader = "1.0"},
