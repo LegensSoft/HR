@@ -5,6 +5,6 @@ ScriptGameSettings = {
    {game = "Polywar", version = "2.4.3", package = "com.nobodyshot.POLYWAR", status = true, loader = true, vloader = "1.0"},
    {game = "SO2", version = "0.33.0", package = "Z", status = true},
     {game = "Project Evolution", version = "8.3", package = "com.YonoProduction.ProjectEvolution", status = true, loader = true, vloader = "1.0"},
-    {game = "Stand Rise", version = "1.3.0", package = "com.SKITLSE.StandRise", status = true, loader = true, vloader = "1.0"},
+    {game = "StandRise", version = "1.3.0", package = "com.SKITLSE.StandRise", status = true, loader = true, vloader = "1.0"},
 
 }
