@@ -1,0 +1,10 @@
+C = os.date("%w")
+Number = 11
+
+if C == "1" then validChars = "DeT4yA_BxS8nFGlH" end
+if C == "2" then validChars = "U8iJKpX2oILrZ6k" end
+if C == "3" then validChars = "MNtV1dQRuY5wOCa" end
+if C == "4" then validChars = "BeFgHIjKlMnOpQR" end
+if C == "5" then validChars = "TtUvWxYzA123456" end
+if C == "6" then validChars = "7890BCDEFGHIJKL" end
+if C == "0" then validChars = "MNOPQRSTUVWXYZA" end
