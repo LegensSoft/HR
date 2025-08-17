@@ -8,4 +8,6 @@ ScriptGameSettings = {
     {game = "StandRise", version = "1.3.0", package = "com.SKITLSE.StandRise", status = true, loader = true, vloader = "1.0"},
     {game = "CounterFlame", version = "0.8.2", package = "com.ScarletWork.CounterFlame", status = true, loader = true, vloader = "1.0"},
     {game = "Geter", version = "1", package = "", status = true, loader = true, vloader = "1.0"},
+    {game = "Car Parking", version = "4.9.3", package = "com.olzhas.carparking.multyplayer", status = true, loader = true, vloader = "1.0"},
+
 }
