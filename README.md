@@ -1,1 +1,4 @@
-rar
+hwid = {
+
+ ["intwave"] = MyID,
+}
