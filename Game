@@ -1,6 +1,6 @@
 ScriptGameSettings = {
     {game = "StandLeo", version = "3.0", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.0"},
     {game = "StandLeo Lite", version = "1.1", package = "com.Embress.STANDLEOLITE", status = true, loader = true, vloader = "1.0"},
- {game = "Car Parking", version = "4.9.5.1", package = "com.olzhas.carparking.multyplayer", status = true, loader = true, vloader = "1.0"},
+ {game = "Car Parking", version = "4.9.4", package = "com.olzhas.carparking.multyplayer", status = true, loader = true, vloader = "1.0"},
 
 }
