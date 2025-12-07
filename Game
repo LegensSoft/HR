@@ -3,7 +3,7 @@
     {game = "StandLeo Lite", version = "1.1", package = "com.Embress.STANDLEOLITE", status = true, loader = true, vloader = "1.1"},
     {game = "Car Parking", version = "4.9.5", package = "com.olzhas.carparking.multyplayer", status = true, loader = true, vloader = "1.1"},
     {game = "Polywar", version = "2.5.0", package = "com.nobodyshot.POLYWAR", status = true, loader = true, vloader = "1.1"},
-    {game = "CounterFlame", version = "1.04", package = "com.ScarletWork.CounterFlame", status = true, loader = true, vloader = "1.1"},
+    {game = "CounterFlame", version = "1.05", package = "com.ScarletWork.CounterFlame", status = true, loader = true, vloader = "1.1"},
 --  {game = "StandPudj", version = "0.13.0", package = "com.srv.standpudj", status = true, loader = true, vloader = "1.0"},
 
 }
