@@ -9,3 +9,4 @@
     {game = "Шаблон скрипта", version = "V1", package = "", status = true, loader = true, vloader = "1.1"},
 
 }
+ 
