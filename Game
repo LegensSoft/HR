@@ -1,4 +1,4 @@
- ScriptGameSettings = {
+-- ScriptGameSettings = {
     {game = "StandLeo", version = "3.3 F3 (V1)", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
     {game = "StandLeo PC", version = "3.3F3 (V2 PC)", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
     {game = "PC StandLeo", version = "3.3F3", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
