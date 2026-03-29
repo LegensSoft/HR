@@ -1,13 +1,4 @@
--- ScriptGameSettings = {
-    {game = "StandLeo", version = "3.3 F3 (V1)", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
-    {game = "StandLeo PC", version = "3.3F3 (V2 PC)", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
-    {game = "PC StandLeo", version = "3.3F3", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
-    {game = "PC StandLeo Lite", version = "1.21", package = "com.Embress.STANDLEOLITE", status = true, loader = true, vloader = "1.1"},
-    {game = "Car Parking", version = "4.9.7", package = "com.olzhas.carparking.multyplayer", status = true, loader = true, vloader = "1.1"},
-    {game = "StandLeo Classic", version = "1.0", package = "com.embress.slclassic", status = true, loader = true, vloader = "1.1"},
-    {game = "CounterFlame", version = "1.1.1", package = "com.ScarletWork.CounterFlame", status = true, loader = true, vloader = "1.1"},
-    {game = "StandKnife", version = "3.1 F1", package = "com.neshurick.standknife", status = true, loader = true, vloader = "1.1"},
-    {game = "StandKnife PC", version = "3.1 F1 (PC)", package = "com.neshurick.standknife", status = true, loader = true, vloader = "1.1"},
-
+ ScriptGameSettings = {
+    {game = "StandLeo", version = "3.3 F3", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
 }
  
