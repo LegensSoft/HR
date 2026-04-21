@@ -1,5 +1,5 @@
  ScriptGameSettings = {
     {game = "StandLeo", version = "3.4", package = "com.th3project.standleo", status = true, loader = true, vloader = "1.1"},
-    {game = "Dumper", version = "V1", package = "", status = true, loader = true, vloader = "1.1"},
+    {game = "Сounter Flame", version = "1.1.1", package = "com.ScarletWork.CounterFlame", status = true, loader = true, vloader = "1.1"},
 }
  
